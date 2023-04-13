@@ -1,5 +1,5 @@
 ## Perfil Github
-Bem vindos a minha página no Github, aqui procuro postar com frequência meus projetos e atividades que estou desenvolvendo. 👋
+Bem vindos a minha página no Github, aqui procuro postar com frequência minhas atividades e projetos que estou desenvolvendo. 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeoCunha&theme=codeSTACKr)
 
