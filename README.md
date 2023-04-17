@@ -1,7 +1,7 @@
 ## Perfil Github
 Bem vindos a minha página no Github, aqui procuro postar com frequência minhas atividades e projetos que estou desenvolvendo. 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeoCunha&theme=codeSTACKr)
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleocunha)
 
