@@ -11,6 +11,8 @@ Bem vindos a minha página no Github, aqui procuro postar com frequência minhas
 
 ## Sobre mim
 
-Olá! Meu nome é Leonardo, estou aprendendo a programar e estou cursando Engenharia de Software. Desde muito jovem era uma pessoa curiosa em entender o funcionamento das coisas, sempre buscando aprender coisas novas e que instigassem a desenvolver as minhas habilidades. Amante de jogos, filmes, animes, séries, músicas e de produzir desenhos e pinturas em meu cantinho particular. Foi após me formar no curso de Direito que senti que precisava buscar algo mais alinhado aos meus gostos pessoais, após essa vivência que conheci a programação e foi paixão a primeira vista. 
+Olá! Meu nome é Leonardo e estou cursando Engenharia de Software. Desde muito jovem era uma pessoa curiosa em entender o funcionamento das coisas, sempre buscando aprender coisas novas e que instigassem a desenvolver as minhas habilidades. <br>
+
+Amante de jogos, filmes, séries e de produzir pinturas em meu cantinho particular. Foi após me formar no curso de Direito que senti que precisava buscar algo mais alinhado aos meus gostos pessoais, após essa vivência conheci o design e o desenvolvimento front-end, foi paixão a primeira vista.
 
 
