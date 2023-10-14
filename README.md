@@ -11,8 +11,10 @@ Bem vindos a minha página no Github, aqui procuro postar com frequência minhas
 
 ## Sobre mim
 
-Olá! Meu nome é Leonardo e estou cursando Engenharia de Software. Desde muito jovem era uma pessoa curiosa em entender o funcionamento das coisas, sempre buscando aprender coisas novas e que instigassem a desenvolver as minhas habilidades. <br>
+Olá! Meu nome é Leonardo e estou graduando em Engenharia de Software. Sou um desenvolvedor front-end e design UI/UX com experiência em criação de interfaces web responsivas para diferentes dispositivos, primando pela experiência do usuário. Desenvolvo em HTML, CSS e JavaScript. <br>
 
-Amante de jogos, filmes, séries e de produzir pinturas em meu cantinho particular. Foi após me formar no curso de Direito que senti que precisava buscar algo mais alinhado aos meus gostos pessoais, após essa vivência conheci o design e o desenvolvimento front-end, foi paixão a primeira vista.
+Desde muito jovem era uma pessoa curiosa em entender o funcionamento das coisas, sempre buscando aprender coisas novas e que instigassem a desenvolver as minhas habilidades. Amante de jogos, filmes, séries e de produzir pinturas em meu cantinho particular. <br>
+
+Foi após me formar no curso de Direito que comecei a buscar algo mais alinhado aos meus gostos pessoais, após essa vivência conheci o design e o desenvolvimento front-end, havia finalmente me encontrado.
 
 
