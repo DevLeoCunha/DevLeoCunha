@@ -11,7 +11,7 @@ Bem vindos a minha página no Github, aqui procuro postar com frequência minhas
 
 ## Sobre mim
 
-Olá! Meu nome é Leonardo e estou graduando em Engenharia de Software. Sou um desenvolvedor front-end e design UI/UX com experiência em criação de interfaces web responsivas para diferentes dispositivos, primando pela experiência do usuário. Desenvolvo em HTML, CSS e JavaScript. <br>
+Olá! Meu nome é Leonardo sou apaixonado por tecnologia e estou graduando em Engenharia de Software. Sou um desenvolvedor front-end e design UI/UX com experiência em criação de interfaces web responsivas para diferentes dispositivos, primando pela experiência do usuário. <br>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d2dcd&height=120&section=footer"/>
