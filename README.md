@@ -1,4 +1,3 @@
-![DevLeoCunha GitHub stats](https://github-readme-stats.vercel.app/api?username=devleocunha&theme=discord_old_blurple&show_icons=true)
 
 <p align="center">I use technology to find solutions </p>&nbsp;
 
@@ -13,6 +12,9 @@
 ## Sobre mim
 
 Olá! Meu nome é Leonardo sou apaixonado por tecnologia e estou graduando em Engenharia de Software. Sou um desenvolvedor front-end e design UI/UX com experiência em criação de interfaces web responsivas para diferentes dispositivos, primando pela experiência do usuário. <br>
+
+![DevLeoCunha GitHub stats](https://github-readme-stats.vercel.app/api?username=devleocunha&theme=discord_old_blurple&show_icons=true)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d2dcd&height=120&section=footer"/>
