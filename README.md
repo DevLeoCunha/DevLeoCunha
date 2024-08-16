@@ -1,6 +1,8 @@
 
 <p align="center">I use technology to find solutions </p>&nbsp;
 
+<p align="center">Hello! My name is Leonardo, I'm passionate about technology and I'm graduating in Software Engineering. I am a front-end developer and UI/UX designer with experience in creating responsive web interfaces for different devices, focusing on the user experience. <br></p>&nbsp;
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleocunha) 
 ## Technologies
@@ -16,7 +18,7 @@
 
 ## Sobre mim
 
-Olá! Meu nome é Leonardo sou apaixonado por tecnologia e estou graduando em Engenharia de Software. Sou um desenvolvedor front-end e design UI/UX com experiência em criação de interfaces web responsivas para diferentes dispositivos, primando pela experiência do usuário. <br>
+Hello! My name is Leonardo, I'm passionate about technology and I'm graduating in Software Engineering. I am a front-end developer and UI/UX designer with experience in creating responsive web interfaces for different devices, focusing on the user experience. <br>
 
 ![DevLeoCunha GitHub stats](https://github-readme-stats.vercel.app/api?username=devleocunha&theme=discord_old_blurple&show_icons=true)
 
