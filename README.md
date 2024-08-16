@@ -1,7 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="center"> Hello! My name is Leonardo, I am passionate about technology and I am studying Software Engineering. I am a front-end developer and UI/UX designer responsible for creating responsive web interfaces for different devices, focusing on the user experience.
+<p align="center"> Hello! My name is Leonardo, I am passionate about technology and I am studying Software Engineering. I am a front-end developer and UI/UX designer responsible for creating responsive web interfaces for different devices, focusing on the user experience. </p>
+
 <p align="center"> I use technology to find solutions </p>
 
 <br><br><br><br><br>
@@ -20,7 +21,7 @@
 
 
 
-<div  align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom:100px">
 <img width=50% align="center"  src="https://github-readme-stats.vercel.app/api?username=devleocunha&theme=discord_old_blurple&show_icons=true)" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=devleocunha&show_icons=true&theme=discord_old_blurple&layout=compact" />
  </div>
@@ -29,6 +30,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleocunha) 
 <a href = "contactleonardocunha@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=677BBF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=677BBF&height=120&section=footer"/>
 
 
