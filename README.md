@@ -3,7 +3,7 @@
 <p align="center">I use technology to find solutions </p>&nbsp;
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleocunha)
+<h1 align= "center">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleocunha) </h1>
 
 ## Tecnologias que utilizo
 
