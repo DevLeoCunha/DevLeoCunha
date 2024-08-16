@@ -20,6 +20,8 @@
 
 ![DevLeoCunha GitHub stats](https://github-readme-stats.vercel.app/api?username=devleocunha&theme=discord_old_blurple&show_icons=true)
 
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d2dcd&height=120&section=footer"/>
