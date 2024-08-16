@@ -1,5 +1,6 @@
-## Perfil Github
-Bem vindos a minha página no Github, aqui procuro postar com frequência minhas atividades e projetos que estou desenvolvendo.
+
+
+<p align="center">I use technology to find solutions </p>&nbsp;
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleocunha)
 
