@@ -1,4 +1,4 @@
-![DevLeoCunha GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeoCunha&theme=discord_old_blurple_icons=false)
+![DevLeoCunha GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeoCunha&theme=github_dark_dimmed_icons=true)
 
 <p align="center">I use technology to find solutions </p>&nbsp;
 
