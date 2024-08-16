@@ -15,14 +15,15 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
-## Contacts
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleocunha) 
 
 
 <div  align="center" style="margin-bottom:100px">
 <img width=50% align="center"  src="https://github-readme-stats.vercel.app/api?username=devleocunha&theme=discord_old_blurple&show_icons=true)" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=devleocunha&show_icons=true&theme=discord_old_blurple&layout=compact" />
  </div>
+
+ ## Contacts
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleocunha) 
 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d2dcd&height=120&section=footer"/>
