@@ -1,7 +1,7 @@
-I use technology to find solutions
+<p align="center">I use technology to find solutions </p>&nbsp;
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="center">Hello! My name is Leonardo, I am passionate about technology and I am studying Software Engineering. I am a front-end developer and UI/UX designer responsible for creating responsive web interfaces for different devices, focusing on the user experience. <br></p>&nbsp;
 
