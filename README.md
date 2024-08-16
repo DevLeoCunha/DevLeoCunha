@@ -3,6 +3,8 @@
 
 <p align="center">Hello! My name is Leonardo, I am passionate about technology and I am studying Software Engineering. I am a front-end developer and UI/UX designer responsible for creating responsive web interfaces for different devices, focusing on the user experience. 
 
+<p align="center">I use technology to find solutions </p>&nbsp; <br></p>&nbsp;
+
 
 <br><br><br><br><br><br>
 
