@@ -1,7 +1,7 @@
 
 <p align="center">I use technology to find solutions </p>&nbsp;
 
-<p align="center">Hello! My name is Leonardo, I'm passionate about technology and I'm graduating in Software Engineering. I am a front-end developer and UI/UX designer with experience in creating responsive web interfaces for different devices, focusing on the user experience. <br></p>&nbsp;
+<p align="center">Hello! My name is Leonardo, I am passionate about technology and I am studying Software Engineering. I am a front-end developer and UI/UX designer responsible for creating responsive web interfaces for different devices, focusing on the user experience. <br></p>&nbsp;
 
 
 ## Technologies
