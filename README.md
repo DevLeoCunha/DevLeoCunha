@@ -1,5 +1,3 @@
-<p align="center">I use technology to find solutions </p>&nbsp;
-
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computador iuriCode">
 
