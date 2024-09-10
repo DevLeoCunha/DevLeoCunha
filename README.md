@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="center" alt="Computador"> 
 
 <p align="center"> Hello! My name is Leonardo, passionate about technology. I'm a front-end developer and UI/UX designer responsible for creating responsive web interfaces for different devices, focusing on the user experience. Looking for a full-time job as a developer </p>
 
@@ -32,9 +32,9 @@ __<p align="center"> I use technology to find solutions 💡</p>__
 
 
 
-<div align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-stats.vercel.app/api?username=devleocunha&theme=discord_old_blurple&show_icons=true)" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=devleocunha&show_icons=true&theme=discord_old_blurple&layout=compact" />
+<div align="center" style="margin-bottom:100 px">
+<img width=85% align="center"  src="https://github-readme-stats.vercel.app/api?username=devleocunha&theme=discord_old_blurple&show_icons=true)" />
+<img width=100% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=devleocunha&show_icons=true&theme=discord_old_blurple&layout=compact" />
  </div>
 
 ## Contacts
@@ -42,6 +42,6 @@ __<p align="center"> I use technology to find solutions 💡</p>__
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactleonardocunha@gmail.com)
 [![Portfolio](https://res.cloudinary.com/practicaldev/image/fetch/s--NNvlmENo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/website%3Flabel%3DPortfolio%26style%3Dfor-the-badge%26url%3Dhttps%253A%252F%252Fsusnatagoswami.netlify.app/)](https://portfolioleonardocunha.vercel.app/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=677BBF&height=120&section=footer"/>
+<img width=1000px src="https://capsule-render.vercel.app/api?type=waving&color=677BBF&height=120&section=footer"/>
 
 
