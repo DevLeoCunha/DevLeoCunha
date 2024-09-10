@@ -2,7 +2,8 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" margin="0px" padding="0px" box-sizing="border-box" align="center" alt="Computador">
 <p align="center"> Hello! My name is Leonardo, passionate about technology. I'm a front-end developer and UI/UX designer responsible for creating responsive web interfaces for different devices, focusing on the user experience. Looking for a full-time job as a developer. </p> <br>
 
-__<p align="center"> I use technology to find solutions 💡</p>__
+__<p align="center"> I use technology to find solutions 💡</p>__ 
+<br>
 
 
 
