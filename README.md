@@ -1,11 +1,11 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" margin="0px" padding="0px" box-sizing="border-box" align="center" alt="Computador"> 
 
-<p align="center"> Hello! My name is Leonardo, passionate about technology. I'm a front-end developer and UI/UX designer responsible for creating responsive web interfaces for different devices, focusing on the user experience. Looking for a full-time job as a developer </p>
+<p align="center"> Hello! My name is Leonardo, passionate about technology. I'm a front-end developer and UI/UX designer responsible for creating responsive web interfaces for different devices, focusing on the user experience. Looking for a full-time job as a developer. </p> <br>
 
 __<p align="center"> I use technology to find solutions 💡</p>__
 
-<br><br><br>
+<br><br>
 
 
 ## Technologies
@@ -38,6 +38,7 @@ __<p align="center"> I use technology to find solutions 💡</p>__
  </div>
 
 ## Contacts
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleocunha) 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactleonardocunha@gmail.com)
 [![Portfolio](https://res.cloudinary.com/practicaldev/image/fetch/s--NNvlmENo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/website%3Flabel%3DPortfolio%26style%3Dfor-the-badge%26url%3Dhttps%253A%252F%252Fsusnatagoswami.netlify.app/)](https://portfolioleonardocunha.vercel.app/)
