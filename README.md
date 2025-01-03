@@ -40,7 +40,7 @@ __<p align="center"> I use technology to find solutions 💡</p>__
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developerleocunha) 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactleocunha@gmail.com)
-[![Portfolio](https://res.cloudinary.com/practicaldev/image/fetch/s--NNvlmENo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/website%3Flabel%3DPortfolio%26style%3Dfor-the-badge%26url%3Dhttps%253A%252F%252Fsusnatagoswami.netlify.app/)](https://portfolioleonardocunha.vercel.app/)
+
 
 <img width=1000px src="https://capsule-render.vercel.app/api?type=waving&color=677BBF&height=120&section=footer"/>
 
